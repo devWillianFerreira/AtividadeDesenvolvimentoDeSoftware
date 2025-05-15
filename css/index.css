@@ -107,7 +107,11 @@ body {
   gap: 30px;
 }
 
-
+.container-left{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 /*definindo o tamanho dos inputs, button e textarea */
 
